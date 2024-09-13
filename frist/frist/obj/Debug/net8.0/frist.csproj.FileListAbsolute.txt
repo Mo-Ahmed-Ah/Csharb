@@ -1,0 +1,14 @@
+E:\larne\c#\frist\frist\bin\Debug\net8.0\frist.exe
+E:\larne\c#\frist\frist\bin\Debug\net8.0\frist.deps.json
+E:\larne\c#\frist\frist\bin\Debug\net8.0\frist.runtimeconfig.json
+E:\larne\c#\frist\frist\bin\Debug\net8.0\frist.dll
+E:\larne\c#\frist\frist\bin\Debug\net8.0\frist.pdb
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.GeneratedMSBuildEditorConfig.editorconfig
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.AssemblyInfoInputs.cache
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.AssemblyInfo.cs
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.csproj.CoreCompileInputs.cache
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.dll
+E:\larne\c#\frist\frist\obj\Debug\net8.0\refint\frist.dll
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.pdb
+E:\larne\c#\frist\frist\obj\Debug\net8.0\frist.genruntimeconfig.cache
+E:\larne\c#\frist\frist\obj\Debug\net8.0\ref\frist.dll
