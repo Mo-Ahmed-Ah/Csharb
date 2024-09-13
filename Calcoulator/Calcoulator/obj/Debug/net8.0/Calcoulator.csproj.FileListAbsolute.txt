@@ -1,0 +1,14 @@
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\bin\Debug\net8.0\Calcoulator.exe
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\bin\Debug\net8.0\Calcoulator.deps.json
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\bin\Debug\net8.0\Calcoulator.runtimeconfig.json
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\bin\Debug\net8.0\Calcoulator.dll
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\bin\Debug\net8.0\Calcoulator.pdb
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.AssemblyInfoInputs.cache
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.AssemblyInfo.cs
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.dll
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\refint\Calcoulator.dll
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.pdb
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\Calcoulator.genruntimeconfig.cache
+C:\Users\ahmoh\source\repos\Calcoulator\Calcoulator\obj\Debug\net8.0\ref\Calcoulator.dll
